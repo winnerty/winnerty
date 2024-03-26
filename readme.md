@@ -16,4 +16,7 @@ I'm a Computer Science Bachelor at EPITA Paris 🤓
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![github stats](https://github-readme-stats.vercel.app/api?username=Winnerty&show_icons=true)    
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winnerty&layout=compact)](https://github.com/Winnerty/github-readme-stats)
