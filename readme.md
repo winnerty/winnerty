@@ -7,7 +7,7 @@
 
 I'm a Computer Science Bachelor at EPITA Paris 🤓
 
-About me:
+#### About me:
 
 - 🔭 I’m currently working at PetroEngineering ISC
 - 🌱 I’m currently learning about Linux System, SQL, Web Dev
