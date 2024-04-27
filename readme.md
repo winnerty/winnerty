@@ -1,6 +1,6 @@
 ### Timofey Karpeev
 
-[![HitCount](https://hits.dwyl.com/Winnerty/Winnerty.svg?style=flat-square)](http://hits.dwyl.com/Winnerty/Winnerty)   
+![HitCount](https://hits.dwyl.com/Winnerty/Winnerty.svg?style=flat-square)   
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
