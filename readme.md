@@ -46,5 +46,7 @@
 
 ### **Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-0A7EE0?logo=bruno&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white)
