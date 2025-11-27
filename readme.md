@@ -50,3 +50,10 @@
 ![Bruno](https://img.shields.io/badge/Bruno-0A7EE0?logo=bruno&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white)
+
+---
+
+### Stats
+![Top Langs](https://stats-rouge-pi.vercel.app/api/top-langs/?username=winnerty&layout=compact)
+
+![GH stats](https://stats-rouge-pi.vercel.app/api/?username=winnerty&hide=issues)
