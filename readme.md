@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Timofey Karpeev
 
-### Computer Science Bachelor at EPITA Paris
+### Computer Science Student at EPITA Paris
 
 ---
 
