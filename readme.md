@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Timofey Karpeev
 
-### Computer Science Student at EPITA Paris
+### Computer Science student at EPITA Paris
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-timofey.karpeev@epita.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timofey.karpeev@epita.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timofey-karpeev/)
 
@@ -53,7 +53,7 @@
 
 ---
 
-### Stats
+## Stats
 ![Top Langs](https://stats-rouge-pi.vercel.app/api/top-langs/?username=winnerty&layout=compact)
 
 ![GH stats](https://stats-rouge-pi.vercel.app/api/?username=winnerty&hide=issues)
